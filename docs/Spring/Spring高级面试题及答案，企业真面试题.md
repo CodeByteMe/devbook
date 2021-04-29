@@ -1,8 +1,8 @@
 # Spring高级面试题及答案，企业真面试题
 
-### 其实，博主还整理了，更多大厂面试题，直接下载吧
 
-### 下载链接：[高清172份，累计 7701 页大厂面试题  PDF](https://github.com/souyunku/DevBooks/blob/master/docs/index.md)
+
+
 
 
 
